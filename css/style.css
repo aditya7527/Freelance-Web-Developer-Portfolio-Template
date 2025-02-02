@@ -119,9 +119,9 @@ border: 0;
   transform: rotate(-135deg);
 }
 
-.navbar-toggler.collapsed .top-bar{
-  margin-top: -20px;
-  transform: rotate(0deg);
+..collapsed .top-bar {
+    margin-top: -20px;
+    transform: rotate(0deg);
 }
 .navbar-toggler.collapsed .middle-bar{
   opacity: 1;
